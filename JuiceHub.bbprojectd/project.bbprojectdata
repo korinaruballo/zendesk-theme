@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HierarchyData</key>
+	<array>
+		<string>17A62281-E7E9-4442-9B7E-51B43828BE7F</string>
+	</array>
+	<key>ProjectItems</key>
+	<dict>
+		<key>17A62281-E7E9-4442-9B7E-51B43828BE7F</key>
+		<dict>
+			<key>ItemData</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va/QCAAAAAAQQMAAAAJM2ZJ2BXWZV0Rp+a00DPCzk
+				J+W317Gs4oKLurki5Xdd8AEAAAQAAAADAwAAAAgAKAUA
+				AAABAQAAVXNlcnMAAAAMAAAAAQEAAGNsZWFuanVpY2Vp
+				dAkAAAABAQAARG9jdW1lbnRzAAAABgAAAAEBAABHaXRI
+				dWIAAA0AAAABAQAAemVuZGVzay10aGVtZQAAABQAAAAB
+				BgAAEAAAACAAAAA0AAAASAAAAFgAAAAIAAAABAMAANW8
+				CgAAAAAACAAAAAQDAACiZQsAAAAAAAgAAAAEAwAAr2UL
+				AAAAAAAIAAAABAMAAAiwfwAAAAAACAAAAAQDAABpyn8A
+				AAAAABQAAAABBgAAjAAAAJwAAACsAAAAvAAAAMwAAAAI
+				AAAAAAQAAEHEA6lz9t5oGAAAAAECAAACAAAAAAAAAA8A
+				AAAAAAAAAAAAAAAAAAAIAAAABAMAAAMAAAAAAAAABAAA
+				AAMDAAD1AQAACAAAAAEJAABmaWxlOi8vLxMAAAABAQAA
+				TWFjaW50b3NoIEhEIC0gRGF0YQAIAAAABAMAAABQPy0c
+				AAAACAAAAAAEAABBwd5EgAAAACQAAAABAQAANUE0MDA1
+				QzYtMzM0Qi00MTczLUE5NjEtNDVGMDEwQjc2Q0Q5GAAA
+				AAECAACBAAAAAQAAAO8TAAABAAAAAAAAAAAAAAABAAAA
+				AQEAAC8AAAAAAAAAAQUAAMwAAAD+////AQAAAAAAAAAQ
+				AAAABBAAAHAAAAAAAAAABRAAANwAAAAAAAAAEBAAAAgB
+				AAAAAAAAQBAAAPgAAAAAAAAAAiAAANwBAAAAAAAABSAA
+				AEQBAAAAAAAAECAAAFQBAAAAAAAAESAAAJABAAAAAAAA
+				EiAAAHABAAAAAAAAEyAAAIABAAAAAAAAICAAALwBAAAA
+				AAAAMCAAAOgBAAAAAAAAAcAAACgBAAAAAAAAEcAAACAA
+				AAAAAAAAEsAAADgBAAAAAAAAENAAAAQAAAAAAAAA
+				</data>
+				<key>FileURL</key>
+				<string>file:///Users/cleanjuiceit/Documents/GitHub/zendesk-theme/</string>
+				<key>HasSecurityScope</key>
+				<true/>
+				<key>RelativePath</key>
+				<string>./</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+			<key>ItemName</key>
+			<string>zendesk-theme</string>
+			<key>ItemType</key>
+			<string>FolderReference</string>
+		</dict>
+	</dict>
+	<key>com.barebones.DocumentFormatVersion</key>
+	<integer>5</integer>
+	<key>com.barebones.DocumentType</key>
+	<string>Project</string>
+</dict>
+</plist>
